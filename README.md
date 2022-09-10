@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usmc-Blockhead
+- 👋 Hi, I’m @usmc-Blockhead also known as usmc_chick_79 in most webspaces
 - 👀 I’m interested in Web Development, Backend, SQL, and DevOps with Python, Full Stack Web + Mobile Development
 - 🌱 I’m currently attending NuCamp Bootcamp to learn all the above
 - 💞️ I’m looking to collaborate on anything where you will be patient with my green skills.  I am green, but I am a fast learner.
