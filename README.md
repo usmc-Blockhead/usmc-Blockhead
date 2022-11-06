@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christa Cooper</h1>
-<h3 align="center">A passionate Software Engineer Developer from Sunny Northern California</h3>
+<h3 align="center">A passionate DevOps Engineer from Sunny Northern California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmc-blockhead&label=Profile%20views&color=0e75b6&style=flat" alt="usmc-blockhead" /> </p>
 
@@ -13,16 +13,16 @@
 
 - 👯 I’m looking to collaborate on **A full use Bug tracker**
 
-- 🤝 I’m looking for help with **New ideas**
+- 🤝 I’m looking for help with **New ideas and bringing them to life**
 
 - 📫 How to reach me **jaysplaypen@gmail.com**
 
-- 📄 Know about my experiences [https://zety.com/profile/christa-cooper](https://zety.com/profile/christa-cooper)
+- 📄 Find out about my experiences on my Resume: [https://zety.com/profile/christa-cooper](https://zety.com/profile/christa-cooper)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/usmc-blockhead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/usmc-blockhead" height="30" width="40" /></a>
-<a href="https://twitter.com/usmc_chick_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmc_chick_79" height="30" width="40" /></a>
+<a href="https://twitter.com/jaysplaypen79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmc_chick_79" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/christa-cooper-46224648/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christa-cooper-46224648/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/usmc-blockhead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="usmc-blockhead" height="30" width="40" /></a>
 </p>
