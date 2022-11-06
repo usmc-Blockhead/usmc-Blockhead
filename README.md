@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christa Cooper</h1>
-<h3 align="center">DevOps Engineer from Sunny Northern California</h3>
+<h3 align="center">DevOps Engineer from Sunny Northern California!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmc-blockhead&label=Profile%20views&color=0e75b6&style=flat" alt="usmc-blockhead" /> </p>
 
@@ -13,21 +13,21 @@
 
 - 🔭 I’m currently working on **My Bootcamp Honors Project - My_Budget App**
 
-- 🌱 I’m currently attending NuCamp on the Full Software Engineering path to learn all the above
+- 🌱 I’m currently attending NuCamp Coding Bootcamp on the Full Software Engineering path.
 
 - 🌱 I’m currently learning **DevOps and Cloud computing**
 
-- 👯 I’m looking to collaborate on **A full use Bug tracker**
+- 👯 I’m looking to collaborate on **A full use Bug and Issue tracker**
 
 - 🤝 I’m looking for help with **New projects and getting them off the ground**
 
-- 👨‍💻 All of my projects are available at [https://github.com/usmc-Blockhead?tab=repositories](https://github.com/usmc-Blockhead?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/usmc-Blockhead](https://github.com/usmc-Blockhead?tab=repositories)
 
 - 💬 Ask me about **Anything, I love to help**
 
 - 📫 How to reach me **jaysplaypen@gmail.com** or here on GitHub
 
-- 📄 Know about my experiences [https://zety.com/profile/christa-cooper](https://zety.com/profile/christa-cooper)
+- 📄 Learn about my experiences from my Resume [https://zety.com/profile/christa-cooper](https://zety.com/profile/christa-cooper)
 
 - 📄 Here is the link to my current certificates https://usmc-blockhead.github.io/certificates/
 
