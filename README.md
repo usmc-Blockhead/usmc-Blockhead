@@ -7,21 +7,29 @@
 
 <p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/jaysplaypen79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
+- 👋 Hi, I’m @usmc-Blockhead also known as usmc_chick_79 in most webspaces
+
+- 👀 I’m interested in Web Development, Backend, SQL, and DevOps with Python, Full Stack Web + Mobile Development
+
 - 🔭 I’m currently working on **My Bootcamp Honors Project - My_Budget App**
+
+- 🌱 I’m currently attending NuCamp on the Full Software Engineering path to learn all the above
 
 - 🌱 I’m currently learning **DevOps and Cloud computing**
 
 - 👯 I’m looking to collaborate on **A full use Bug tracker**
 
-- 🤝 I’m looking for help with **New ideas**
+- 🤝 I’m looking for help with **New projects and getting them off the ground**
 
 - 👨‍💻 All of my projects are available at [https://github.com/usmc-Blockhead?tab=repositories](https://github.com/usmc-Blockhead?tab=repositories)
 
 - 💬 Ask me about **Anything, I love to help**
 
-- 📫 How to reach me **jaysplaypen@gmail.com**
+- 📫 How to reach me **jaysplaypen@gmail.com** or here on GitHub
 
 - 📄 Know about my experiences [https://zety.com/profile/christa-cooper](https://zety.com/profile/christa-cooper)
+
+- 📄 Here is the link to my current certificates https://usmc-blockhead.github.io/certificates/
 
 - ⚡ Fun fact **I volunteer with the local SPCA with bottle-fed and medical needs kittens.**
 
@@ -51,14 +59,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmc-blockhead&show_icons=true&locale=en" alt="usmc-blockhead" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmc-blockhead&" alt="usmc-blockhead" /></p>
-
-
-- 👋 Hi, I’m @usmc-Blockhead also known as usmc_chick_79 in most webspaces
-- 👀 I’m interested in Web Development, Backend, SQL, and DevOps with Python, Full Stack Web + Mobile Development
-- 🌱 I’m currently attending NuCamp on the Full Software Engineering path to learn all the above
-- Here is the link to my current certificates https://usmc-blockhead.github.io/certificates/
-- 💞️ I’m looking to collaborate on anything where you will be patient with my green skills.  I am green, but I am a fast learner.
-- 📫 How to reach me, here on github
 
 <!---
 usmc-Blockhead/usmc-Blockhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
