@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmc-blockhead" alt="usmc-blockhead" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/usmc_chick_79" target="blank"><img src="https://img.shields.io/twitter/follow/usmc_chick_79?logo=twitter&style=for-the-badge" alt="usmc_chick_79" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/usmc_chick_79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
 - 🔭 I’m currently working on **My Bootcamp Honors Project - My_Budget App**
 
