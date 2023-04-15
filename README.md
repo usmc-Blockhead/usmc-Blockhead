@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/jaysplaypen79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
-- 🔭 I’m currently working on **My Full stack Honors project - Todo List in React Navtive**
+- 🔭 I’m currently working on **My Full stack Honors project - the DogFoodApp in React Native and Node.Js**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Server-side Development with NodeJS, Express and MongoDB**
 
 - 👯 I’m looking to collaborate on **A full use Bug tracker**
 
