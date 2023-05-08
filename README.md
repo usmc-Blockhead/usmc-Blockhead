@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Server-side Development with NodeJS, Express and MongoDB**
 
-- 👯 I’m looking to collaborate on **A full use Bug tracker**
+- 👯 I’m looking to collaborate on **A full use Bug Tracker**
 
-- 🤝 I’m looking for help with **New ideas**
+- 🤝 I’m looking for help with **My Portfolio**
 
 - 👨‍💻 All of my projects are available at [https://github.com/usmc-Blockhead?tab=repositories](https://github.com/usmc-Blockhead?tab=repositories)
 
