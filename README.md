@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christa Cooper</h1>
-<h3 align="center">DevOps Engineer Student from Sunny Northern California</h3>
+<h3 align="center">Software Engineer Graduate from Sunny Northern California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmc-blockhead&label=Profile%20views&color=0e75b6&style=flat" alt="usmc-blockhead" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jaysplaypen@gmail.com**
 
-- 📄 Know about my experiences [https://zety.com/profile/christa-cooper](https://zety.com/profile/christa-cooper)
+- 📄 Get my resume here [https://usmc-blockhead.github.io/resume/](https://usmc-blockhead.github.io/resume/)
 
 - ⚡ Fun fact **I volunteer with the local SPCA with bottle-fed and medical needs kittens.**
 
