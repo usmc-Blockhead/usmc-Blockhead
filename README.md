@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christa Cooper</h1>
-<h3 align="center">Software Engineer Graduate from Sunny Northern California</h3>
+<h3 align="center">Software Engineer from Sunny Northern California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmc-blockhead&label=Profile%20views&color=0e75b6&style=flat" alt="usmc-blockhead" /> </p>
 
