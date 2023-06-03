@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmc-blockhead&label=Profile%20views&color=0e75b6&style=flat" alt="usmc-blockhead" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmc-blockhead" alt="usmc-blockhead" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmc-blockhead" alt="usmc-blockhead" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/jaysplaypen79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
-- 🔭 I’m currently working on **My Full stack Honors project - the DogFoodApp in React Native and Node.Js**
+- 🔭 I’m currently working on [The DogFoodApp - a group project](https://github.com/UJordan/dogfoodapp)
 
-- 🌱 I’m currently learning **Server-side Development with NodeJS, Express and MongoDB**
+- 🌱 I’m currently learning **As a Graduate, I am always looking for new things to learn.**
 
-- 👯 I’m looking to collaborate on **A full use Bug Tracker**
+- 👯 I’m looking to collaborate on **A full use Bug tracker**
 
-- 🤝 I’m looking for help with **My Portfolio**
+- 🤝 I’m looking for help with **A home dashboard**
 
 - 👨‍💻 All of my projects are available at [https://github.com/usmc-Blockhead?tab=repositories](https://github.com/usmc-Blockhead?tab=repositories)
 
-- 💬 Ask me about **Anything, I love to help**
+- 💬 Ask me about **Anything, I love to help!**
 
 - 📫 How to reach me **jaysplaypen@gmail.com**
 
-- 📄 Get my resume here [https://usmc-blockhead.github.io/resume/](https://usmc-blockhead.github.io/resume/)
+- 📄 Know about my experiences [https://zety.com/profile/christa-cooper](https://zety.com/profile/christa-cooper)
 
 - ⚡ Fun fact **I volunteer with the local SPCA with bottle-fed and medical needs kittens.**
 
@@ -51,4 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmc-blockhead&show_icons=true&locale=en" alt="usmc-blockhead" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmc-blockhead&" alt="usmc-blockhead" /></p>
-
