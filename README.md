@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/jaysplaypen79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
-- 🔭 I’m currently working on MyBlog https://fir-blog-ab578.web.app/ (https://github.com/usmc-Blockhead/firebase-blog))
+- 🔭 I’m currently working on **MyBlog** : [**Github**](https://github.com/usmc-Blockhead/firebase-blog), [**Firebase**](https://fir-blog-ab578.web.app)
 
-- 🌱 I’m currently learning **As a Graduate, I am always looking for new things to learn.**
+- 🌱 I’m currently learning **I Graduated in June 2023, and I am always looking for new things to learn.**
 
-- 👯 I’m looking to collaborate on **A full use Bug tracker**
+- 👯 I’m looking to collaborate on **A full-featured Bug Tracker**
 
-- 🤝 I’m looking for help with **A home dashboard**
+- 🤝 I’m looking for help with **A Home Dashboard with Users, Calender, Lists, and API integrations**
 
-- 👨‍💻 All of my projects are available at [https://github.com/usmc-Blockhead?tab=repositories](https://github.com/usmc-Blockhead?tab=repositories)
+- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/usmc-Blockhead?tab=repositories)
 
 - 💬 Ask me about **Anything, I love to help!**
 
-- 📫 How to reach me **jaysplaypen@gmail.com**
+- 📫 How to reach me [**Email**](christa@christacooper.dev)
 
-- 📄 Know about my experiences [christacooper.dev](https://christacooper.dev/)
+- 📄 Know about my experiences [**christacooper.dev**](https://christacooper.dev/)
 
 - ⚡ Fun fact **I volunteer with the local SPCA with bottle-fed and medical needs kittens.**
 
