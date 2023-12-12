@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/jaysplaypen79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
-- 🔭 I’m currently working on MyBlog(https://github.com/usmc-Blockhead/firebase-blog))
+- 🔭 I’m currently working on MyBlog https://fir-blog-ab578.web.app/ (https://github.com/usmc-Blockhead/firebase-blog))
 
 - 🌱 I’m currently learning **As a Graduate, I am always looking for new things to learn.**
 
