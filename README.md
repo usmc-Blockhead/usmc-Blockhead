@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/jaysplaypen79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
-- 🔭 I’m currently working on [The DogFoodApp - a group project](https://github.com/UJordan/dogfoodapp)
+- 🔭 I’m currently working on MyBlog(https://github.com/usmc-Blockhead/firebase-blog))
 
 - 🌱 I’m currently learning **As a Graduate, I am always looking for new things to learn.**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jaysplaypen@gmail.com**
 
-- 📄 Know about my experiences [https://zety.com/profile/christa-cooper](https://zety.com/profile/christa-cooper)
+- 📄 Know about my experiences [christacooper.dev](https://christacooper.dev/)
 
 - ⚡ Fun fact **I volunteer with the local SPCA with bottle-fed and medical needs kittens.**
 
