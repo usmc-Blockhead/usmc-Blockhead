@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on **MyBlog** : [**Github**](https://github.com/usmc-Blockhead/firebase-blog), [**Firebase**](https://fir-blog-ab578.web.app)
 
-- 🌱 I’m currently learning **I Graduated in June 2023, and I am always looking for new things to learn.**
+- I have recently started working on freelance projects so check out that [site](https://tabbytechsolutions.com/)
+
+- 🌱 I’m always learning, I officially Graduated in June 2023 and am always looking for new things to learn.**
 
 - 👯 I’m looking to collaborate on **A full-featured Bug Tracker**
 
@@ -19,9 +21,12 @@
 
 - 📫 How to reach me [**Email**](christa@christacooper.dev)
 
-- 📄 Know about my experiences [**christacooper.dev**](https://christacooper.dev/)
+- 📄 Find out about my experiences [**christacooper.dev**](https://christacooper.dev/)
 
-- ⚡ Fun fact **I volunteer with the local SPCA with bottle-fed and medical needs kittens.**
+- ⚡ Fun fact **I volunteer with the local SPCA with neonate bottle-fed and medical needs kittens.*
+  
+Want to make your own GitHub Readme check out this awesome [template](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+Want to make your own personal Avatar check out [cartoonize](https://www.cartoonize.net/avatar-maker/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
