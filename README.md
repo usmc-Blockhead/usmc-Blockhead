@@ -5,28 +5,31 @@
 
 <p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/jaysplaypen79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
-- 🔭 I’m currently working on **MyBlog** : [**Github**](https://github.com/usmc-Blockhead/firebase-blog), [**Firebase**](https://fir-blog-ab578.web.app)
+- 🏗️ **Currently building:** MyBlog [**Github**](https://github.com/usmc-Blockhead/firebase-blog), [**Firebase**](https://fir-blog-ab578.web.app)
 
-- I have recently started working on freelance projects so check out that [site](https://tabbytechsolutions.com/)
+- ⌚ **Work:** I have recently started working on freelance projects while looking for my dream job, so check out that [TabbyTech](https://tabbytechsolutions.com/)
 
-- 🌱 I’m always learning, I officially Graduated in June 2023 and am always looking for new things to learn.**
+- 🌱 **Lifelong learner:** I graduated in June 2023 and am always eager to explore new technologies and expand my skills.
 
-- 👯 I’m looking to collaborate on **A full-featured Bug Tracker**
+- 👯 **Collaborating:** I'm always open to collaborating, hoping to work on a full-featured Bug Tracker.
 
-- 🤝 I’m looking for help with **A Home Dashboard with Users, Calender, Lists, and API integrations**
+- 🤝 **Seeking assistance:** I’m seeking help developing a Home Dashboard featuring user management, calendars, lists, and API integrations.
 
-- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/usmc-Blockhead?tab=repositories)
+- 👨‍💻 **My projects:** Check them out on [**GitHub**](https://github.com/usmc-Blockhead?tab=repositories)
 
-- 💬 Ask me about **Anything, I love to help!**
+- 💬 **Ask me anything:** I’m always happy to help out.
 
-- 📫 How to reach me [**Email**](christa@christacooper.dev)
+- 📫 **Reach me:** Email me for inquiries. [**Email**](christa@christacooper.dev)
 
-- 📄 Find out about my experiences [**christacooper.dev**](https://christacooper.dev/)
+- 📄 **Learn more** about me: Visit [**christacooper.dev**](https://christacooper.dev/) for a full rundown of my experience.
 
-- ⚡ Fun fact **I volunteer with the local SPCA with neonate bottle-fed and medical needs kittens.*
+- 😺 **Fun fact:** I volunteer at the local SPCA, caring for neonate bottle-fed and special medical needs kittens. 
   
-Want to make your own GitHub Readme check out this awesome [template](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-Want to make your own personal Avatar check out [cartoonize](https://www.cartoonize.net/avatar-maker/)
+Want to make your own GitHub Readme, Check out this awesome [**Template**](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+</br>
+Want to make your own personal Avatar, Check out [**Cartoonize**](https://www.cartoonize.net/avatar-maker/)
+</br>
+Want to find cool emojis or symbols, Check out [**Cool Symbols and Fonts**](https://coolsymbol.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
