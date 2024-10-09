@@ -7,7 +7,7 @@
 
 - 🏗️ **Currently building:** MyBlog [**Github**](https://github.com/usmc-Blockhead/firebase-blog), [**Firebase**](https://fir-blog-ab578.web.app)
 
-- ⌚ **Work:** I have recently started working on freelance projects while looking for my dream job, so check out that [TabbyTech](https://tabbytechsolutions.com/)
+- ⌚ **Work:** I have recently started working on freelance projects while looking for my dream job, so check out [TabbyTech](https://tabbytechsolutions.com/)
 
 - 🌱 **Lifelong learner:** I graduated in June 2023 and am always eager to explore new technologies and expand my skills.
 
