@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christa Cooper</h1>
-<h3 align="center">Software Engineer from Sunny Northern California</h3>
+<h3 align="center">Software Engineer/Agentic Prompt Engineer from Sunny Northern California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmc-blockhead&label=Profile%20views&color=0e75b6&style=flat" alt="usmc-blockhead" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/jaysplaypen79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
-- 🏗️ **Currently building:** MyBlog [**Github**](https://github.com/usmc-Blockhead/firebase-blog), [**Firebase**](https://fir-blog-ab578.web.app)
+- 🏗️ **Currently building:** I have been adding Prompt Engineering into my workflow for the last 10 months, and it has really up my skill level, I am learning new AI thing all the time, like N8N, Model-training and Agentsthat cut the work flow by thirds.  I am about to overhaul my Portfolio to reflect the changes in tech and all my skill sets so please stay posted for updates.  MyBlog [**Github**](https://github.com/usmc-Blockhead/firebase-blog), [**Firebase**](https://fir-blog-ab578.web.app)
 
-- ⌚ **Work:** I have recently started working on freelance projects while looking for my dream job, so check out [TabbyTech](https://tabbytechsolutions.com/)
+- ⌚ **Work:** I work for a Small Start-up in the table-top gaming accessories market, called ScentedRealms check them out at vip.scentedrealms.com  I am still available for freelance projects, so check out [TabbyTech](https://tabbytechsolutions.com/)
 
 - 🌱 **Lifelong learner:** I graduated in June 2023 and am always eager to explore new technologies and expand my skills.
 
