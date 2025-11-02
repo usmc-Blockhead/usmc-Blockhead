@@ -5,25 +5,27 @@
 
 <p align="left"> <a href="https://twitter.com/jaysplaypen79" target="blank"><img src="https://img.shields.io/twitter/follow/jaysplaypen79?logo=twitter&style=for-the-badge" alt="jaysplaypen79" /></a> </p>
 
-- 🏗️ **Currently building:** I have been adding Prompt Engineering into my workflow for the last 10 months, and it has really up my skill level, I am learning new AI thing all the time, like N8N, Model-training and Agentsthat cut the work flow by thirds.  I am about to overhaul my Portfolio to reflect the changes in tech and all my skill sets so please stay posted for updates.  MyBlog [**Github**](https://github.com/usmc-Blockhead/firebase-blog), [**Firebase**](https://fir-blog-ab578.web.app)
+- 🏗️ **Currently building:** For the past 10 months, I’ve been integrating prompt engineering into my workflow, which has significantly leveled up my skills. I’m continually learning new AI tools and techniques—such as n8n, model training, and agents—that reduce workflows by a third. I’m about to overhaul my portfolio to reflect these changes and my broader skill set, so stay tuned.  MyBlog [**Github**](https://github.com/usmc-Blockhead/firebase-blog), [**Firebase**](https://fir-blog-ab578.web.app)
 
-- ⌚ **Work:** I work for a Small Start-up in the table-top gaming accessories market, called ScentedRealms check them out at vip.scentedrealms.com  I am still available for freelance projects, so check out [TabbyTech](https://tabbytechsolutions.com/)
+- ⌚ **Work:** I work at a small startup in the tabletop gaming accessories space called Scented Realms—check it out at [vip.scentedrealms.com](https://vip.scentedrealms.com/). I’m also available for freelance projects via [TabbyTech](https://tabbytechsolutions.com/)
 
-- 🌱 **Lifelong learner:** I graduated in June 2023 and am always eager to explore new technologies and expand my skills.
+- 🌱 **Lifelong learner:** I graduated in June 2023 and I’m always exploring new technologies and expanding my skills.
 
-- 👯 **Collaborating:** I'm always open to collaborating, hoping to work on a full-featured Bug Tracker.
+- 👯 **Collaborating:** Open to collaboration—especially interested in building a full‑featured bug tracker.
 
-- 🤝 **Seeking assistance:** I’m seeking help developing a Home Dashboard featuring user management, calendars, lists, and API integrations.
+- 🤝 **Seeking assistance:** Looking for help developing a home dashboard with user management, calendars, lists, and API integrations.
 
-- 👨‍💻 **My projects:** Check them out on [**GitHub**](https://github.com/usmc-Blockhead?tab=repositories)
+- 👨‍💻 **Projects:** Explore my work on [**GitHub**](https://github.com/usmc-Blockhead?tab=repositories)
 
 - 💬 **Ask me anything:** I’m always happy to help out.
 
-- 📫 **Reach me:** Email me for inquiries. [**Email**](christa@christacooper.dev)
+- 📫 **Reach me:** Email me at [**Email**](christa@christacooper.dev)
 
-- 📄 **Learn more** about me: Visit [**christacooper.dev**](https://christacooper.dev/) for a full rundown of my experience.
+- 📄 **Learn more** Get the full overview at [**christacooper.dev**](https://christacooper.dev/).
 
 - 😺 **Fun fact:** I volunteer at the local SPCA, caring for neonate bottle-fed and special medical needs kittens. 
+
+- 🧰 **Tech stack:** TypeScript/JavaScript, Python, React/Next.js, Node.js/Express, Firebase/Supabase, n8n, LangChain, OpenAI/Anthropic, Docker, GitHub Actions, Tailwind CSS, PostgreSQL.
   
 Want to make your own GitHub Readme, Check out this awesome [**Template**](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 </br>
